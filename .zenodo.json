@@ -1,0 +1,30 @@
+{
+  "upload_type": "dataset",
+  "title": "Ukraine Aerial Crater Dataset: aerial and satellite images with YOLO annotations of explosion craters",
+  "creators": [
+    {
+      "name": "Zhukovskyy, Viktor",
+      "affiliation": "National University of Water and Environmental Engineering, Rivne, Ukraine",
+      "orcid": "0000-0002-7088-6930"
+    },
+    {
+      "name": "Romasenko, Viktoriia",
+      "affiliation": "Dubrovytsia Lyceum; Rivne Junior Academy of Sciences, Ukraine"
+    }
+  ],
+  "description": "<p>Images taken from above (UAV, aerial and satellite) of areas in Ukraine damaged by shelling, with manually labelled explosion craters in YOLO format: 723 images, of which 711 are labelled; about 22,900 bounding boxes.</p><p>The dataset is intended for training and evaluating object detectors for automated assessment of war damage to land, in particular agricultural land.</p><p><b>Image sources and terms of use.</b> Images were collected from open sources. Because of the war, systematic imaging of affected areas is difficult, so part of the images are fragments of Google Maps / Google Earth satellite imagery (marked \"© Google\"). Rights to these images belong to Google and its data providers; their use must follow the Google Maps / Google Earth terms of service. The dataset is provided for non-commercial academic use only. The annotations are licensed under CC BY-NC 4.0.</p>",
+  "license": "cc-by-nc-4.0",
+  "access_right": "open",
+  "keywords": [
+    "explosion craters",
+    "bomb craters",
+    "object detection",
+    "YOLO",
+    "aerial imagery",
+    "satellite imagery",
+    "war damage",
+    "agricultural land",
+    "Ukraine"
+  ],
+  "language": "eng"
+}

@@ -1,0 +1,17 @@
+Ukraine Aerial Crater Dataset
+Copyright (c) 2026 Viktor Zhukovskyy, Viktoriia Romasenko
+
+Annotations (the `labels` directory) and documentation are licensed under the
+Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+Images (the `images` directory) were collected from open sources and remain the
+property of their respective rights holders. Part of the images are fragments of
+Google Maps / Google Earth satellite imagery (marked "© Google"); rights to them
+belong to Google and its data providers, and their use is subject to the
+Google Maps / Google Earth terms of service:
+https://www.google.com/help/terms_maps/
+https://about.google/brand-resource-center/products-and-services/geo-guidelines/
+The "© Google" attribution must not be removed.
+
+The dataset as a whole is provided for non-commercial academic use only.
